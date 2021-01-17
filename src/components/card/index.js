@@ -34,7 +34,7 @@ const Card = () => (
     {data.map((d) => (
       <div class={style.card}>
         <div class={style.card__img}>
-          <img src={d.img} alt={d.name}></img>
+          <img src={d.img} alt={d.name} />
         </div>
 
         <div class={style.info}>

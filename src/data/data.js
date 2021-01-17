@@ -21,7 +21,7 @@
 
 const data = [
   {
-    name: 'Get Ready for IELTS Writing',
+    title: 'Get Ready for IELTS Writing',
     author: 'Williams Anneli',
     img: 'https://i.imgur.com/WesSXRt.jpg',
     linkDl: 'https://shon.xyz/eMkA16',
@@ -29,7 +29,7 @@ const data = [
     cateId: '',
   },
   {
-    name: 'Get Ready for IELTS Writing',
+    title: 'Get Ready for IELTS Writing',
     author: 'Williams Anneli',
     img: 'https://i.imgur.com/WesSXRt.jpg',
     linkDl: 'https://shon.xyz/eMkA16',
@@ -37,7 +37,7 @@ const data = [
     cateId: '',
   },
   {
-    name: 'Get Ready for IELTS Writing',
+    title: 'Get Ready for IELTS Writing',
     author: 'Williams Anneli',
     img: 'https://i.imgur.com/WesSXRt.jpg',
     linkDl: 'https://shon.xyz/eMkA16',
@@ -45,7 +45,7 @@ const data = [
     cateId: '',
   },
   {
-    name: 'Get Ready for IELTS Writing',
+    title: 'Get Ready for IELTS Writing',
     author: 'Williams Anneli',
     img: 'https://i.imgur.com/WesSXRt.jpg',
     linkDl: 'https://shon.xyz/eMkA16',
@@ -53,7 +53,31 @@ const data = [
     cateId: '',
   },
   {
-    name: 'Get Ready for IELTS Writing',
+    title: 'Get Ready for IELTS Writing',
+    author: 'Williams Anneli',
+    img: 'https://i.imgur.com/WesSXRt.jpg',
+    linkDl: 'https://shon.xyz/eMkA16',
+    category: 'IELTS Writing',
+    cateId: '',
+  },
+  {
+    title: 'Get Ready for IELTS Writing',
+    author: 'Williams Anneli',
+    img: 'https://i.imgur.com/WesSXRt.jpg',
+    linkDl: 'https://shon.xyz/eMkA16',
+    category: 'IELTS Writing',
+    cateId: '',
+  },
+  {
+    title: 'Get Ready for IELTS Writing',
+    author: 'Williams Anneli',
+    img: 'https://i.imgur.com/WesSXRt.jpg',
+    linkDl: 'https://shon.xyz/eMkA16',
+    category: 'IELTS Writing',
+    cateId: '',
+  },
+  {
+    title: 'Get Ready for IELTS Writing',
     author: 'Williams Anneli',
     img: 'https://i.imgur.com/WesSXRt.jpg',
     linkDl: 'https://shon.xyz/eMkA16',

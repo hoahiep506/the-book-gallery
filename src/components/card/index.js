@@ -7,11 +7,11 @@ const Card = () => (
     {data.map((d) => (
       <div class={style.card}>
         <div class={style.card__img}>
-          <img src={d.img} alt={d.name} />
+          <img src={d.img} alt={d.title} />
         </div>
 
         <div class={style.info}>
-          <div class={style.info__title}>{d.name}</div>
+          <div class={style.info__title}>{d.title}</div>
           <div class={style.info__author}>
             <span>{d.author}</span>
           </div>

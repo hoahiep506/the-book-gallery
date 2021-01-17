@@ -1,11 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
 :root {
 	--color-primary: #4285F4;
 	--color-primary-dark: #185ABC;
 
-	--color-text: #fff;
+	--color-text: #202124;
 
-	--shadow-light: 0 2rem 5rem rgba(0, 0, 0, .06);
-	--shadow-dark: 0 2rem 6rem rgba(0, 0, 0, .3);
+	--color-background: #E9E9E9;
 
 	--bp-largest: 75em; 
 	--bp-large: 68.75em; 
@@ -29,10 +30,11 @@ html {
 }
 
 body {
-	font-family: 'Helvetica', arial, sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 	line-height: 1.5;
 	color: var(--color-text);
+	background-color: var(--color-background);
 	
 	min-height: 100vh;
 }
@@ -41,7 +43,3 @@ body {
 	box-sizing: border-box;
 }
 
-#app {
-	width: 119.1rem;
-	margin: 0 auto;
-}

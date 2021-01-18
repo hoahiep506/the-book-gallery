@@ -1,13 +1,16 @@
 import data from '../../data/data'
 import style from './style.css'
 
-
 const Card = () => (
   <div class={style.container}>
     {data.map((d) => (
       <div class={style.card}>
         <div class={style.card__img}>
           <img src={d.img} alt={d.title} />
+        </div>
+
+        <div class={style.label}>
+          <span>{d.category}</span>
         </div>
 
         <div class={style.info}>

@@ -14,7 +14,8 @@
   img: direct url of image to display on page
   linkDl: link download documment
   cateName: Name of category documment
-  cateId: Id of category documment
+  cateId: Id of category documment: - ielts
+                                    - toeic
 
 */
 

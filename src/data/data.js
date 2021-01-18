@@ -26,7 +26,7 @@ const data = [
     img: 'https://i.imgur.com/WesSXRt.jpg',
     linkDl: 'https://shon.xyz/eMkA16',
     category: 'IELTS Writing',
-    cateId: '',
+    cateId: 'ielts',
   },
   {
     title: 'Get Ready for IELTS Writing',
@@ -34,7 +34,7 @@ const data = [
     img: 'https://i.imgur.com/WesSXRt.jpg',
     linkDl: 'https://shon.xyz/eMkA16',
     category: 'IELTS Writing',
-    cateId: '',
+    cateId: 'ielts',
   },
   {
     title: 'Get Ready for IELTS Writing',
@@ -42,7 +42,7 @@ const data = [
     img: 'https://i.imgur.com/WesSXRt.jpg',
     linkDl: 'https://shon.xyz/eMkA16',
     category: 'IELTS Writing',
-    cateId: '',
+    cateId: 'ielts',
   },
   {
     title: 'Get Ready for IELTS Writing',
@@ -50,7 +50,7 @@ const data = [
     img: 'https://i.imgur.com/WesSXRt.jpg',
     linkDl: 'https://shon.xyz/eMkA16',
     category: 'IELTS Writing',
-    cateId: '',
+    cateId: 'ielts',
   },
   {
     title: 'Get Ready for IELTS Writing',
@@ -58,7 +58,7 @@ const data = [
     img: 'https://i.imgur.com/WesSXRt.jpg',
     linkDl: 'https://shon.xyz/eMkA16',
     category: 'IELTS Writing',
-    cateId: '',
+    cateId: 'ielts',
   },
   {
     title: 'Get Ready for IELTS Writing',
@@ -66,7 +66,7 @@ const data = [
     img: 'https://i.imgur.com/WesSXRt.jpg',
     linkDl: 'https://shon.xyz/eMkA16',
     category: 'IELTS Writing',
-    cateId: '',
+    cateId: 'ielts',
   },
   {
     title: 'Get Ready for IELTS Writing',
@@ -74,7 +74,7 @@ const data = [
     img: 'https://i.imgur.com/WesSXRt.jpg',
     linkDl: 'https://shon.xyz/eMkA16',
     category: 'IELTS Writing',
-    cateId: '',
+    cateId: 'ielts',
   },
   {
     title: 'Get Ready for IELTS Writing',
@@ -82,7 +82,7 @@ const data = [
     img: 'https://i.imgur.com/WesSXRt.jpg',
     linkDl: 'https://shon.xyz/eMkA16',
     category: 'IELTS Writing',
-    cateId: '',
+    cateId: 'ielts',
   },
 ]
 

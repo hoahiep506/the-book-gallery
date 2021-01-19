@@ -25,7 +25,6 @@ const Announcement = () => {
             {' '}
             tại đây
           </a>{' '}
-          <span class={style.content}>⭐️</span>
           <button
             aria-label='Close'
             class={style.button}

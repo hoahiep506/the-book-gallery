@@ -1,10 +1,7 @@
 import { useState } from 'preact/hooks'
 import style from './style.css'
+import config from '../../../siteConfig'
 
-const config = {
-  title: '⭐️ Nếu bạn 💗️ thichtienganh, góp ý phát triển',
-  link: '#',
-}
 
 const Announcement = () => {
   const [show, setShow] = useState(true)
@@ -15,16 +12,16 @@ const Announcement = () => {
     <div>
       {show ? (
         <div class={style.container} role='banner'>
-          <span class={style.content}>{config.title}</span>
+          <span class={style.content}>{config.announcementBar}</span>
           <a
             class={style.link}
-            href={config.link}
+            href={config.announcementBarLink}
             target='_blank'
             rel='noreferrer'
           >
-            {' '}
+            
             tại đây
-          </a>{' '}
+          </a>
           <button
             aria-label='Close'
             class={style.button}

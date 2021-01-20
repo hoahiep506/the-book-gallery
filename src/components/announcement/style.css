@@ -8,14 +8,14 @@
 }
 
 .content {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   width: 100%;
-  padding: 0.5rem 0;
+  padding: 1rem 0;
 }
 .link {
   color: var(--color-text);
   text-decoration: underline;
-  font-size: 1.4rem;
+  font-size: 1.6rem;
 }
 
 .button {

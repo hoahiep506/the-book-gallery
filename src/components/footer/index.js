@@ -1,11 +1,14 @@
 import style from './style.css'
+import config from '../../../siteConfig'
+
+
 
 const Footer = () => (
   <footer class={style.footer}>
     <p>
-      Made with 👨‍💻 and ❤️ from{' '}
+      {config.copyright}
       <a href='https://thichtienganh.com/' target='_blank' rel='noreferrer'>
-        thichtienganh
+        {config.shortName}
       </a>
     </p>
   </footer>

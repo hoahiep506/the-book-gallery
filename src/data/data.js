@@ -261,22 +261,7 @@ const data = [
     category: 'IELTS Writing',
     cateId: 'ielts',
   },
-  {
-    title: 'Get Ready for IELTS Writing 2',
-    author: 'Williams Anneli',
-    img: 'https://i.imgur.com/WesSXRt.jpg',
-    linkDl: 'https://shon.xyz/eMkA16',
-    category: 'IELTS Writing',
-    cateId: 'ielts',
-  },
-  {
-    title: 'tuan',
-    author: 'Williams Anneli',
-    img: 'https://i.imgur.com/WesSXRt.jpg',
-    linkDl: 'https://shon.xyz/eMkA16',
-    category: 'IELTS Writing',
-    cateId: 'ielts',
-  },
+
 ]
 
 export default data

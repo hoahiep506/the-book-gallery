@@ -1,5 +1,5 @@
 import { h } from 'preact'
-import usePagination from '@mariosant/react-pagination-hook'
+import usePagination from '../../../node_modules/@mariosant/react-pagination-hook/dist/index'
 
 import data from '../../data/data'
 import style from './style.css'
